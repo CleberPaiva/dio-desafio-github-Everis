@@ -1,2 +1,2 @@
-# Repositório do desafio de projeto sobre GitHub Everis/DIO
-Desafio de projeto sobre Gi/GitHub
+# Desafio de projeto sobre GitHub Everis/DIO
+Repositório criado sobre o desafio de projeto sobre Gi/GitHub
